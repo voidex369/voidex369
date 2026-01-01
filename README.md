@@ -1,78 +1,63 @@
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)"/>
-  <br/>
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_OVERRIDE_INITIATED...;IDENTITY_CONFIRMED:+VOIDEX;ACCESS_LEVEL:+SOVEREIGN;TARGET:+TOTAL_DIGITAL_DOMINANCE](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_OVERRIDE_INITIATED...;IDENTITY_CONFIRMED:+VOIDEX;ACCESS_LEVEL:+SOVEREIGN;TARGET:+TOTAL_DIGITAL_DOMINANCE)" alt="Typing SVG" />
+<!-- HEADER -->
+<h1 align="center">👋 Halo, Saya <span style="color:#00BFFF;">VoidEx</span></h1>
+<h3 align="center">💻 Developer | 🚀 Tech Explorer | 🔥 Build • Break • Learn</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Welcome+to+VoidEx+Profile!;Ngoding+Sampai+Lupa+Waktu;Error+Itu+Guru;Build+Something+Cool!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 Tentang Saya
+- 👨‍💻 Nama: **VoidEx**
+- 🎯 Fokus di **Programming & Teknologi**
+- 🌱 Terus belajar dan eksplor hal baru
+- ⚡ Prinsip: *Error boleh, nyerah jangan*
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,react,git,github,vscode&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidex369&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidex369&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=voidex369&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://t.me/voidex369">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <br/>
-  <img src="[https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer)"/>
-</div>
+</p>
 
-<br/>
+---
 
-<table border="0" width="100%" align="center">
-    <tr>
-        <td width="30%" align="center" valign="center">
-            <img src="[https://media.tenor.com/images/7a06a6405788484196191c9641777266/tenor.gif](https://media.tenor.com/images/7a06a6405788484196191c9641777266/tenor.gif)" style="border-radius: 10px; border: 3px solid #00FF00; box-shadow: 0 0 20px #00FF00;" width="200px">
-            <br/><br/>
-            <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
-                <img src="[https://github-profile-trophy.vercel.app/?username=voidex369&theme=matrix&no-frame=true&column=1&margin-w=0&margin-h=0](https://github-profile-trophy.vercel.app/?username=voidex369&theme=matrix&no-frame=true&column=1&margin-w=0&margin-h=0)" width="150px"/>
-            </a>
-        </td>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voidex369&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-        <td width="40%" valign="top">
-            <h3 align="center" style="color:#00FF00;">🖥️ VOID_TERMINAL</h3>
-            <pre><code>
-user@voidex:~$ ./status.sh
----------------------------
-[+] OS      :: Kali / Arch
-[+] Role    :: Cyber Sovereign
-[+] Ping    :: 1ms (Brain)
-[+] Mood    :: "Dattebayo!"
-[+] Current :: Hunting Bugs...
----------------------------
-user@voidex:~$ whoami
-> An entity living in the 
-  space between 0 and 1.
-            </code></pre>
-            <div align="center">
-                <img src="[https://komarev.com/ghpvc/?username=voidex369&style=for-the-badge&color=brightgreen&label=VISITORS](https://komarev.com/ghpvc/?username=voidex369&style=for-the-badge&color=brightgreen&label=VISITORS)" />
-            </div>
-        </td>
-
-        <td width="30%" align="center">
-            <h3 style="color:#00FF00;">📊 METRICS</h3>
-            <img src="[https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true](https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true)" width="100%" />
-            <br/>
-            <img src="[https://github-readme-streak-stats.herokuapp.com/?user=voidex369&theme=react&hide_border=true&background=00000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=ffffff&dates=ffffff](https://github-readme-streak-stats.herokuapp.com/?user=voidex369&theme=react&hide_border=true&background=00000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=ffffff&dates=ffffff)" width="100%" />
-        </td>
-    </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <h2 style="color:#00FF00;">🛠️ ARSENAL & WEAPONRY</h2>
-  <p>
-    <a href="[https://skillicons.dev](https://skillicons.dev)">
-      <img src="[https://skillicons.dev/icons?i=linux,kali,bash,py,js,ts,nodejs,git,docker,vim,vscode,md&theme=dark](https://skillicons.dev/icons?i=linux,kali,bash,py,js,ts,nodejs,git,docker,vim,vscode,md&theme=dark)" />
-    </a>
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="[https://github.com/voidex369/voidex369/blob/output/github-contribution-grid-snake.svg](https://github.com/voidex369/voidex369/blob/output/github-contribution-grid-snake.svg)" width="100%" alt="Jalankan GitHub Action 'Generate Snake' dulu agar gambar ini muncul!" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix&is_animated=true](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix&is_animated=true)" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=VOID_PROTOCOL_TERMINATED&fontSize=20&fontColor=000000&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=VOID_PROTOCOL_TERMINATED&fontSize=20&fontColor=000000&animation=fadeIn)" width="100%" />
-</div>
+<p align="center">
+  🔥 <b>VoidEx</b> — Ngoding pelan asal jalan, error datang jadi pelajaran 😎
+</p>
