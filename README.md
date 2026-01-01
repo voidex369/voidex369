@@ -33,8 +33,7 @@
 ---------------------------
 user@voidex:~$ whoami
 > An entity living in the 
-  space between 0 and 1.
-</code></pre>
+  space between 0 and 1.</code></pre>
             <div align="center">
                 <img src="https://komarev.com/ghpvc/?username=voidex369&style=for-the-badge&color=brightgreen&label=VISITORS" />
             </div>
