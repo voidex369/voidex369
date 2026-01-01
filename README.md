@@ -23,6 +23,7 @@ user@voidex:~$ status
 > [✓] Mental: 100%
 > [✓] Coding: Active
 > [!] Sleep: Deprecated
+```bash
 
 <div align="center"> <h3>🛠️ ARSENAL (Tech Stack)</h3>
 
