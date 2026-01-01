@@ -1,126 +1,89 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+voidex369;CLI+Tool+Creator;TypeScript+Developer;Open+Source+Enthusiast" />
+  Hi 👋 I'm <b>voidex369</b>
 </h1>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/135995081?v=4" width="150" style="border-radius:50%; border:4px solid #7B68EE;" />
+<p align="center">
+  <b>CLI Tool Creator • TypeScript Developer • Open Source Enthusiast</b>
+</p>
 
-  ### 🛠️ CLI Developer | TypeScript Specialist
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/135995081?v=4" width="140" style="border-radius:50%" />
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=voidex369&color=7B68EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/voidex369?color=7B68EE&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/voidex369?color=7B68EE&style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voidex369&style=flat" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=dark&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&border_color=7B68EE" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidex369&theme=dark&background=0d1117&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidex369&layout=compact&theme=dark&bg_color=0d1117&title_color=7B68EE&border_color=7B68EE" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=dark&cache_seconds=86400" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/voidex369/voidex369/output/dist/github-contribution-grid-snake.svg" />
-</div>
+</p>
 
 ---
 
 ## 🌟 Featured Project
 
-<div align="center">
-
-### 🚀 voidex-cli — Command Line Interface Tool
+### 🚀 voidex-cli  
 https://github.com/voidex369/voidex-cli
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=voidex369&repo=voidex-cli&theme=dark&bg_color=0d1117&title_color=7B68EE&border_color=7B68EE" />
-
-**Features**
-- 🔧 Built with TypeScript
-- 🚀 Fast & efficient CLI
-- 📦 Easy to install
-- 🎯 Cross-platform
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-7B68EE?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-
-</div>
+- 🔧 Built with TypeScript  
+- 🚀 Fast & efficient CLI  
+- 📦 Easy to install  
+- 🎯 Cross-platform  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Primary Skills
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### Languages
+- TypeScript
+- JavaScript
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" />
-<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal" />
+### Runtime & Tools
+- Node.js
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 📚 About Me
 
-```ts
-const developer = {
-  name: "voidex369",
-  specialty: "CLI Tools & TypeScript",
-  languages: ["TypeScript", "JavaScript"],
-  focus: "Scalable CLI Applications",
-  philosophy: "Clean, maintainable, efficient code"
-};
-```
+    const developer = {
+      name: "voidex369",
+      focus: "CLI Tools & TypeScript",
+      philosophy: "Clean, maintainable, efficient code"
+    };
 
 ---
 
 ## 🎯 Goals
 
-| Status | Goal |
-|------|------|
-| ✅ | Expand voidex-cli |
-| 🔄 | Contribute to open source |
-| 🔄 | Learn advanced TypeScript |
-| ⏳ | Build more CLI tools |
-
-<img src="https://progress-bar.vercel.app/?width=400&color=7B68EE&title=Progress" />
+- ✅ Expand voidex-cli features  
+- 🔄 Contribute to open source projects  
+- 🔄 Learn advanced TypeScript patterns  
+- ⏳ Build more CLI tools  
+- ⏳ Grow GitHub stars  
 
 ---
 
 ## 📫 Connect
 
-<a href="https://github.com/voidex369">
-  <img src="https://img.shields.io/badge/GitHub-voidex369-181717?style=for-the-badge&logo=github" />
-</a>
+- GitHub: https://github.com/voidex369
 
 ---
 
-## 🎮 Fun
-
-> *"First, solve the problem. Then, write the code."*
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=7B68EE&borderColor=7B68EE" />
-
-<a href="https://github.com/voidex369/voidex-cli">
-  <img src="https://img.shields.io/badge/⭐_Star_voidex--cli-7B68EE?style=for-the-badge&logo=github" />
-</a>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff" />
-  <br/>
+<p align="center">
   <sub>Made with ❤️ by <b>voidex369</b></sub>
-</div>
+</p>
