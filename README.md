@@ -12,7 +12,8 @@
 
 <table border="0" width="100%" align="center">
     <tr>
-        <td width="30%" align="center" valign="center">
+        <td width="30%" align="center" valign="top">
+            <br/>
             <img src="https://media.tenor.com/images/7a06a6405788484196191c9641777266/tenor.gif" style="border-radius: 10px; border: 3px solid #00FF00; box-shadow: 0 0 20px #00FF00;" width="200px">
             <br/><br/>
             <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -22,8 +23,7 @@
 
         <td width="40%" valign="top">
             <h3 align="center" style="color:#00FF00;">🖥️ VOID_TERMINAL</h3>
-            <pre><code>
-user@voidex:~$ ./status.sh
+<pre><code>user@voidex:~$ ./status.sh
 ---------------------------
 [+] OS      :: Kali / Arch
 [+] Role    :: Cyber Sovereign
@@ -34,13 +34,13 @@ user@voidex:~$ ./status.sh
 user@voidex:~$ whoami
 > An entity living in the 
   space between 0 and 1.
-            </code></pre>
+</code></pre>
             <div align="center">
                 <img src="https://komarev.com/ghpvc/?username=voidex369&style=for-the-badge&color=brightgreen&label=VISITORS" />
             </div>
         </td>
 
-        <td width="30%" align="center">
+        <td width="30%" align="center" valign="top">
             <h3 style="color:#00FF00;">📊 METRICS</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true" width="100%" />
             <br/>
