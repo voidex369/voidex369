@@ -1,38 +1,80 @@
 <div align="center">
+  
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=250&section=header&text=VOIDEX&fontSize=80&fontColor=0d1117&animation=fadeIn&fontAlignY=40&desc=Sovereign%20Cyber%20Agent&descAlignY=60&descSize=25&descColor=0d1117](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=250&section=header&text=VOIDEX&fontSize=80&fontColor=0d1117&animation=fadeIn&fontAlignY=40&desc=Sovereign%20Cyber%20Agent&descAlignY=60&descSize=25&descColor=0d1117)" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM_INIT_SEQUENCE...;ACCESS_GRANTED_TO_SOVEREIGN_MEMORY;Welcome+User+to+VoidEx+Protocol.;Pentesting+%7C+Exploit+Dev+%7C+Crypto" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Initializing+Sovereign+Protocol...;Target%3A+Pentesting+%26+Exploit+Dev;Mission%3A+Secure+the+Digital+Void;Status%3A+RIMURU+MODE+ACTIVE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Initializing+Sovereign+Protocol...;Target%3A+Pentesting+%26+Exploit+Dev;Mission%3A+Secure+the+Digital+Void;Status%3A+RIMURU+MODE+ACTIVE)" alt="Typing SVG" />
+  </a>
 
-  <br/>
-
-  <img src="https://media1.tenor.com/m/Wq_X49dMw64AAAAd/rimuru-tempest-rimuru.gif" width="200px" style="border-radius: 10px; border: 2px solid #00ff00;">
-
-  <h2 style="color: #00ff00;"> ⚡ SYSTEM STATUS: ONLINE </h2>
 </div>
 
-### 🖥️ Terminal Access
-```bash
-user@voidex:~$ whoami
-> VoidEx | Cyber Security Enthusiast & Developer
+<br/>
 
-user@voidex:~$ cat mission.txt
-> "Exploring the depths of the digital void."
-> Building tools for sovereignty and security.
-> Currently researching: 0-Day Vulnerabilities & Crypto Architecture.
+<table align="center" border="0" bgcolor="#0d1117">
+  <tr>
+    <td width="55%" valign="top">
+      
+      <h2 align="center">⚡ SYSTEM TERMINAL</h2>
 
-user@voidex:~$ status
-> [✓] Mental: 100%
-> [✓] Coding: Active
-> [!] Sleep: Deprecated
-```bash
+<pre>
+<code class="language-bash">root@voidex:~# neofetch
+-----------------------
+OS      : Kali Linux Rolling
+Kernel  : 6.6.9-amd64
+Uptime  : Forever
+Shell   : Zsh (Oh-My-Zsh)
+DE      : GNOME (Dark Mode)
+Focus   : Cyber Security, 
+          Reverse Engineering,
+          Automation Tools.
+Status  : "I'm not a bad slime!"
+</code>
+</pre>
 
-<div align="center"> <h3>🛠️ ARSENAL (Tech Stack)</h3>
+<br/>
 
-<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash_Script-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tor-7D4698%3Fstyle%3Dfor-the-badge%26logo%3Dtor-browser%26logoColor%3Dwhite" /> </p> </div>
+<h3 align="center">🛠️ ARSENAL</h3>
+<div align="center">
+  <img src="[https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white&color=black](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white&color=black)">
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black)">
+  <img src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=black](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=black)">
+  <img src="[https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)">
+  <br/>
+  <img src="[https://img.shields.io/badge/Burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=black](https://img.shields.io/badge/Burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=black)">
+  <img src="[https://img.shields.io/badge/Metasploit-14354C?style=for-the-badge&logo=metasploit&logoColor=white&color=black](https://img.shields.io/badge/Metasploit-14354C?style=for-the-badge&logo=metasploit&logoColor=white&color=black)">
+  <img src="[https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white&color=black](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white&color=black)">
+</div>
 
-<div align="center"> <h3>📊 NETWORK TRAFFIC (Stats)</h3>
+</td>
 
-<p> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dvoidex369%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3Dc9d1d9" alt="voidex369 stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dvoidex369%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3Dc9d1d9" alt="voidex369 languages" /> </p>
+<td width="45%" valign="center" align="center">
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dvoidex369%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00" alt="voidex369 streak" /> </div>
+<img src="[https://media.tenor.com/images/7a06a6405788484196191c9641777266/tenor.gif](https://media.tenor.com/images/7a06a6405788484196191c9641777266/tenor.gif)" width="90%" style="border-radius: 15px; border: 3px solid #00FF00; box-shadow: 0 0 20px #00FF00;">
+<br/><br/>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter%26fontSize%3D0" /> <p><i>"I'm not a bad slime, you know?" - Rimuru Tempest</i></p> </div>
+<img src="[https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff](https://github-readme-stats.vercel.app/api?username=voidex369&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff)" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h2>🏆 ACHIEVEMENTS UNLOCKED</h2>
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="[https://github-profile-trophy.vercel.app/?username=voidex369&theme=matrix&no-frame=true&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=voidex369&theme=matrix&no-frame=true&margin-w=15&margin-h=15)" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=voidex369&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=voidex369&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&langs_count=8)" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=END%20OF%20LINE&fontSize=20&fontColor=0d1117&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=END%20OF%20LINE&fontSize=20&fontColor=0d1117&animation=fadeIn)" width="100%" />
+</div>
