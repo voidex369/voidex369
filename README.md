@@ -81,7 +81,7 @@
 
 <div align="center">
   
-  ```typescript
+  typescript
   // voidex369 Developer Profile
   interface Developer {
     name: "voidex369";
@@ -144,4 +144,4 @@ https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&sectio
 
 Made with ❤️ by voidex369 | Last update: $(date +%Y-%m-%d)
 
-</div> ```
+</div>
