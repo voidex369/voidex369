@@ -136,3 +136,4 @@ const developer = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff">
   <sub>Made with ❤️ by <b>voidex369</b></sub>
 </div>
+
