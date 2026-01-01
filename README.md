@@ -100,3 +100,48 @@
     learning: ["Advanced TypeScript", "System Design", "Performance Optimization"],
     philosophy: "Write clean, maintainable, and efficient code"
   };
+
+</div>
+🎯 Goals for 2024
+<div align="center">
+Expand voidex-cli features
+
+Contribute to open source projects
+
+Learn advanced TypeScript patterns
+
+Build more CLI tools
+
+Increase GitHub stars on projects
+
+https://progress-bar.vercel.app/?width=400&color=7B68EE&title=2024%2520Goals%2520Progress
+
+</div>
+📫 Let's Connect
+<div align="center">
+https://img.shields.io/badge/GitHub-voidex369-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+Feel free to reach out for collaboration!
+
+</div>
+🎮 Fun Section
+<div align="center">
+https://raw.githubusercontent.com/voidex369/voidex369/output/github-contribution-grid-snake.svg
+
+Developer Quote
+"First, solve the problem. Then, write the code." - John Johnson
+
+https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=7B68EE&borderColor=7B68EE&qColor=7B68EE&aColor=cccccc
+
+</div>
+<div align="center">
+⭐ Star my repositories if you find them interesting! ⭐
+https://img.shields.io/badge/%E2%AD%90_Star_voidex--cli-7B68EE?style=for-the-badge&logo=github&logoColor=white
+
+https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn
+
+Made with ❤️ by voidex369 | Last update: $(date +%Y-%m-%d)
+
+</div> ```
