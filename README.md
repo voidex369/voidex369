@@ -30,7 +30,7 @@
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidex369/voidex369/output/dist/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/voidex369/voidex369/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
